@@ -13,11 +13,11 @@ Finally, once the execution window opens, type out your values for side a and si
 List the values that the user needs to enter.
 You will need to input the 2, other shorter sides of the right triangle. They are labeled as "side_a" and "side_b" in the program.
 ## Sample Output
-'Enter the length of side a: 8
-Enter the length of side b: 9
-The hypotenuse is: 12.04
+- `Enter the length of side a: 8`
+- `Enter the length of side b: 9`
+- `The hypotenuse is: 12.04`
 
-Process finished with exit code 0'
+- `Process finished with exit code 0`
 ## Author
 Name: John Owen D. Depidep
 Section: 8-Adelfa

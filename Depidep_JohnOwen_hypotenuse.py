@@ -5,7 +5,7 @@
 #===================================================================================
 import math
 
-# Ask user for the lengths of the two shorter sides
+# Ask user for the lengths of the two shorter sides (added spaces for cleaner input)
 side_a = float(input("Enter the length of side a: "))
 side_b = float(input("Enter the length of side b: "))
 
@@ -19,5 +19,6 @@ sum_of_squares = a_squared + b_squared
 # math.sqrt() to calculate the hypotenuse
 hypotenuse = math.sqrt(sum_of_squares)
 
-# Display hypotenuse rounded to two decimal places
+# Display hypotenuse rounded to two decimal places with an explicit empty line before it
+print()
 print(f"The hypotenuse is: {hypotenuse:.2f}")
